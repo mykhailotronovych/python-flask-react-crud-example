@@ -25,10 +25,3 @@ If you'd like to simply clone this repo and configure it with your Okta settings
        npm i
        npm start
 
-## Help
-
-Please post any questions as comments on the [blog post](https://developer.okta.com/blog/2018/12/20/crud-app-with-python-flask-react), or visit our [Okta Developer Forums](https://devforum.okta.com/). You can also email developers@okta.com if you'd like to create a support ticket.
-
-## License
-
-Apache 2.0, see [LICENSE](LICENSE).
